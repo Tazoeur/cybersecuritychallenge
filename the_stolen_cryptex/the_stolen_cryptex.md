@@ -47,17 +47,25 @@ No need to solve the Beale papers, a part of the key is: 3E BB
 solved parts :
 
 - `ad e0` (morse)
-  <!-- - `78` (manuscript image) -->
+- `78 81` (manuscript image)
 - `a1` (icons)
 - `f3` (morse)
 - `3e bb` (qrcode)
 - `47 04` (image)
-- `0c 07 15 1a 0c` (miami ^ Antwerpen)
-- `??` (chiffres)
+  <!-- - `0c 07 15 1a 0c` (miami ^ Antwerpen) -->
+- `47` (chiffres)
 
 Si on regroupe les infos, on devrait avoir un code comme ceci :
 
-`ade078a1f33ebb47040c07151a0c??`
+
+
+
+`48 40 6C 46 20 4B 33 79` `ad e0 78 81 3e bb 47 04`
+48 40 6C 46 20 4B 33 79 ad e0 78 81 3e bb 47 04
+48 40 6C 46 20 4B 33 79 ad e0 78 81 47 04 3e bb
+48 40 6C 46 20 4B 33 79 78 81 ad e0 47 04 3e bb
+
+
 
 ## Base 64
 
