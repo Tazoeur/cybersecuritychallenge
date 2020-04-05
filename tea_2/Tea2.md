@@ -31,7 +31,3 @@ $ for i in $(ls); do strings $i; done | grep -A 2 -B 2 -i 'username'
 e1_interleaving=
 +isBehindAT()
 ```
-
-no time
-
-141520091305

@@ -34,6 +34,13 @@ The [link](https://s3-eu-west-1.amazonaws.com/be.cscbe.challenges.2020/The+stole
 
 ![image](data/IMG_0273.jpeg)
 
+A look in the metadata of the file give us this clue :
+
+```txt
+48 40 6C 46 20 4B 33 79 (the other half of the key is not here)
+```
+
+Then we had to analyse the image.
 There is a log of garbage link on the image but here's what I found interesting:
 
 ```txt
@@ -53,11 +60,7 @@ solved parts :
 - `3e bb` (qrcode)
 - `47 04` (image)
 - `0c 07 15 1a 0c` (miami ^ Antwerpen)
-- `??` (chiffres)
-
-Si on regroupe les infos, on devrait avoir un code comme ceci :
-
-`ade078a1f33ebb47040c07151a0c??`
+- `??` (numbers)
 
 ## Base 64
 

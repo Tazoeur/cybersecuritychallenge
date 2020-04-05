@@ -25,3 +25,7 @@ So let's bruteforce it with parameters :
 ```shell
 bruteforce-luks -s "123456" -t 4 -l 5 -m 5 -v 30 chal.img
 ```
+
+it didn't work.
+
+We then tried to solve it with some dice cryptography theory. 

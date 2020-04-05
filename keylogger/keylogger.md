@@ -1,5 +1,11 @@
 # Keylogger.exe
 
+It's a windows executable file format with the c++ code of this executable.
+
+Since in our team, there was no expert in either c++ or windows executable, we dropped that challenge.
+
+Here is some information we manage to gather before giving up :
+
 ```xml
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
   <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
