@@ -54,13 +54,13 @@ No need to solve the Beale papers, a part of the key is: 3E BB
 solved parts :
 
 - `ad e0` (morse)
-  <!-- - `78` (manuscript image) -->
+- `78 81` (manuscript image)
 - `a1` (icons)
 - `f3` (morse)
 - `3e bb` (qrcode)
 - `47 04` (image)
 - `0c 07 15 1a 0c` (miami ^ Antwerpen)
-- `??` (numbers)
+- `47` (numbers)
 
 ## Base 64
 

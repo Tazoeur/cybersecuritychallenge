@@ -16,11 +16,26 @@ Here's a list of what can and can't be found in this repo, presented as a checkl
   - [x] original data
   - [ ] soluce explanation
   - [ ] soluce script
+- [ ] Final Wave
+  - [ ] introductory text
+  - [x] original data
+  - [x] soluce explanation
+  - [ ] soluce script
 - [ ] Give it a whirl :
   - [ ] introductory text
   - [ ] original data
   - [ ] soluce explanation
   - [ ] soluce script
+- Hunt and peck
+  - [ ] introductory text
+  - [x] original data
+  - [x] soluce explanation
+  - [ ] soluce script
+- Invisible ink
+  - [ ] introductory text
+  - [x] original data
+  - [x] soluce explanation
+  - [x] soluce script
 - [ ] Key logger :
   - [ ] introductory text
   - [x] original data
@@ -30,17 +45,32 @@ Here's a list of what can and can't be found in this repo, presented as a checkl
   - [ ] introductory text
   - [ ] original data
   - [x] soluce explanation
-  - [ ] soluce script
+  - [x] soluce script
 - [ ] Roll the dice :
   - [x] introductory text
   - [x] original data
-  - [ ] soluce explanation
+  - [x] soluce explanation
+  - [x] soluce script
+- [ ] Shameless challenge
+  - [ ] introductory text
+  - [ ] original data
+  - [x] soluce explanation
   - [ ] soluce script
 - [ ] Sight deception
   - [ ] introductory text
   - [x] original data
   - [x] soluce explanation
   - [x] soluce script
+- [ ] Strange Language
+  - [ ] introductory text
+  - [ ] original data
+  - [ ] soluce explanation
+  - [ ] soluce script
+- [ ] Succulent security
+  - [ ] introductory text
+  - [ ] original data
+  - [ ] soluce explanation
+  - [ ] soluce script
 - [x] Tea 1
   - [ ] introductory text
   - [x] original data
