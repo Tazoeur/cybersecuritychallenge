@@ -26,12 +26,12 @@ Here's a list of what can and can't be found in this repo, presented as a checkl
   - [ ] original data
   - [ ] soluce explanation
   - [ ] soluce script
-- Hunt and peck
+- [ ] Hunt and peck
   - [ ] introductory text
   - [x] original data
   - [x] soluce explanation
   - [ ] soluce script
-- Invisible ink
+- [ ] Invisible ink
   - [ ] introductory text
   - [x] original data
   - [x] soluce explanation
